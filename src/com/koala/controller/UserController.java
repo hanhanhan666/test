@@ -7,5 +7,6 @@ public class UserController {
 				
 				
 				System.out.println("hanjiawei");
+				System.out.println("hanjiawei");
 			}
 }
