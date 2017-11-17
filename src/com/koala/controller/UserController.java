@@ -8,5 +8,6 @@ public class UserController {
 				
 				System.out.println("hanjiawei");
 				System.out.println("hanjiawei");
+				System.out.println("6666");
 			}
 }
